@@ -1,0 +1,35 @@
+@media all and (max-width: 992px) {
+
+    .mobile {
+        display: block;
+        margin-left: auto;
+    }
+
+    .topnav ul.mobile-ul {
+        display: none;
+
+    }
+
+    .nav.mobile-fusion ul {
+        display: inline-block;
+        position: absolute;
+        left: 0;
+        top: 60px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .topnav ul li {
+        display: block;
+    }
+
+    .topnav ul li a {
+        line-height: 20px;
+    }
+
+    .logo.l-2 {
+        display: none;
+    }
+
+
+}
