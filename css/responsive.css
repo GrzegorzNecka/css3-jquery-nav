@@ -7,7 +7,6 @@
 
     .topnav ul.mobile-ul {
         display: none;
-
     }
 
     .nav.mobile-fusion ul {
@@ -21,6 +20,7 @@
 
     .topnav ul li {
         display: block;
+        margin: 10px 0;
     }
 
     .topnav ul li a {
@@ -30,6 +30,5 @@
     .logo.l-2 {
         display: none;
     }
-
-
 }
+
